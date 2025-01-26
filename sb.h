@@ -4,7 +4,9 @@
 #if _MSC_VER >= 1600
 #pragma execution_character_set("utf-8")
 #endif
-
+#define sdt std
+#define unigned unsigned
+#define unignd unsigned
 #define mian main
 #define stadin std::cin
 #define stadout std::cout
